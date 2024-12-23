@@ -1,0 +1,6 @@
+Compilation et execution
+
+Assurez-vous que tous les fichiers sont dans le même répertoire, puis compilez et exécutez le programme avec :
+
+g++ -o molecular_orbital_simulation main.cpp Orbital.cpp MolecularOrbital.cpp
+./molecular_orbital_simulation
